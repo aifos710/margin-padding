@@ -1,1 +1,21 @@
-/* Agrega aqui tu CSS */
+*{
+	box-sizing:border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+div{
+	border-width: ;
+	border:5px;
+	border-style: solid;
+	border-color: #EB8459;
+	padding:30px ;
+	margin:30px;
+	background-color:white;
+	text-align: center;
+	width: 250px;
+}
+
+body{
+	margin:3px;
+}
